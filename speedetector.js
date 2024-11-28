@@ -6,7 +6,7 @@
 //    > For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
 
 function speedTest() {
-    let speed = parseFloat(prompt("What's your current car's speed:"));
+    let speed = prompt("What's your current car's speed:");
 
     //I want to just make sure they key in a positive value and all practicing debugging
     if (speed < 0) {
@@ -33,7 +33,7 @@ function speedTest() {
         if (demeritpoints > 12) {
             console.log("License suspended");
         } else {
-            console.log(`You are ${points}  points above the allowed speed limit. You are required to go to stick to the allowed speed limit`);
+            console.log(`You are ${demeritpoints}  points above the allowed speed limit. You are required to go to stick to the allowed speed limit`);
         }
     }
 }
