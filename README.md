@@ -18,7 +18,7 @@ Write a function that prompts the user to input student marks. The input should 
     * used if loop to create a condition that helps go through all conditions to get the grade output from input given
     * print my output as shown below
 
-![alt text](<Screenshot 2024-11-28 200906.png>)
+![alt text](<./img/Screenshot 2024-11-28 200906.png>)
 
  
 
@@ -35,7 +35,7 @@ Write a program that takes the speed of a car as input e.g 80. If the speed is l
     * used the condition given which i expressed using for and if loop to go over the condition and calculate
     * print my output as per the conditions given below
 
-    ![alt text](<Screenshot 2024-11-28 195502.png>)
+    ![alt text](</img/Screenshot 2024-11-28 195502.png>)
 
 ### Challenge 3: Net Salary Calculator (Toy Problem)
 
@@ -49,7 +49,7 @@ Write a program whose major task is to calculate an individual’s Net Salary by
     * Nested it with another if loop that goes through the NHIF(SHA) calculation as per SHA creteria 
     * Finally invoked my function to calculate salary to see out put as shown below
 
-    ![alt text](<Screenshot 2024-11-28 210814.png>)
+    ![alt text](<./img/Screenshot 2024-11-28 210814.png>)
 
 ## License
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this code with attribution.
